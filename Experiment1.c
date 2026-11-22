@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
 
 int length(char[]);
 void compare(char[],char[]);
